@@ -1,0 +1,13 @@
+.input_todo_container {
+  height: 50px;
+}
+/**************/
+.input_todo {
+  min-width: 150px;
+  flex-grow: 1;
+  padding-left: 10px;
+}
+
+.add_todo_task_button{
+  background: #1f9400;
+}
